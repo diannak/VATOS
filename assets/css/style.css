@@ -27,6 +27,11 @@
   html { scroll-behavior: smooth; }
   body { font-family: 'Noto Sans KR', sans-serif; color: var(--text-dark); background: #fff; overflow-x: hidden; }
 /* ── oopy style ── */
+
+section[aria-label="Notifications alt+T"] {
+  display: none !important;
+}
+
 .page-title {
   display: none;
   }
