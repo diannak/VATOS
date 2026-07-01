@@ -31,7 +31,7 @@
 section[aria-label="Notifications alt+T"] {
   display: none !important;
 }
-.notion-page-content width padding {
+div[class="class="notion-page-content width padding"] {
   padding: 0;
 }
 
